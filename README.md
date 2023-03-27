@@ -14,3 +14,6 @@ Class Mahasiswa
 3. Method set digunakan untuk mengubah nilai dari atribut, sedangkan method get digunakan untuk mengambil nilai dari atribut. 
 
 4. Kelas Mahasiswa digunakan dalam aplikasi Daftar Mahasiswa.
+
+
+/*Saya Muhamad Naufal Daffa mengerjakan Latihan 5 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. */
